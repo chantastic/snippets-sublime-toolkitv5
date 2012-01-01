@@ -26,7 +26,7 @@ expand this:
 
 	<mvt:item name="toolkit" param="attr|acount|l.all_settings:product:id" />
 
-Hitting `TAB` or `SHIF + TAB` will toggle through the function attributes.  In this case, starting with `account` and concluding on `l.all_settings:product:id`
+Hitting `TAB` or `SHIF + TAB` will toggle through the function parameters.  In this case, starting with `account` and concluding on `l.all_settings:product:id`
 
 Contribution
 ------------
