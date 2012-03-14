@@ -7,7 +7,9 @@ Installation
 ------------
 
 * Download the Snippets via ZIP, SSH, or `git clone`
-* Copy all snippets into your `~/Library/Application\ Support/Sublime\ Text 2/Packages/<bundle_subdir>` ( OS X )
+* Copy all snippets into your
+		+ `~/Library/Application\ Support/Sublime\ Text 2/Packages/<bundle_subdir>` ( OS X )
+		+ `<user>\AppData\Roaming\Sublie Text 2\Packages\User\<bundle_subdir>` ( WIN )
 
 Usage
 -----
