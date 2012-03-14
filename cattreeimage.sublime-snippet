@@ -2,5 +2,5 @@
 	<content><![CDATA[
 <mvt:item name="toolkit" param="cattreeimage|${1:smallimage}|${0:l.all_settings:parent_category:code}" />
 ]]></content>
-	<tabTrigger>tk/cattreeimage</tabTrigger>
+	<tabTrigger>tk-cattreeimage</tabTrigger>
 </snippet>

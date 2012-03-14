@@ -2,5 +2,5 @@
 	<content><![CDATA[
 <mvt:item name="toolkit" param="render|${0:MINI}" />
 ]]></content>
-	<tabTrigger>tk/render</tabTrigger>
+	<tabTrigger>tk-render</tabTrigger>
 </snippet>

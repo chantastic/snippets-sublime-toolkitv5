@@ -2,5 +2,5 @@
 	<content><![CDATA[
 <mvt:item name="toolkit" param="prompt" />
 ]]></content>
-	<tabTrigger>tk/prompt</tabTrigger>
+	<tabTrigger>tk-prompt</tabTrigger>
 </snippet>

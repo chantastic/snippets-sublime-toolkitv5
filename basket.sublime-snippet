@@ -2,5 +2,5 @@
 	<content><![CDATA[
 <mvt:item name="toolkit" param="basket|${0:itemcount}" />
 ]]></content>
-	<tabTrigger>tk/basket</tabTrigger>
+	<tabTrigger>tk-basket</tabTrigger>
 </snippet>

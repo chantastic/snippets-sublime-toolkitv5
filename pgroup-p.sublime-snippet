@@ -2,5 +2,5 @@
 	<content><![CDATA[
 <mvt:item name="toolkit" param="pgroup-p|${1:prdcount}|${0:g.Product_Code}" />
 ]]></content>
-	<tabTrigger>tk/pgroup-p</tabTrigger>
+	<tabTrigger>tk-pgroup-p</tabTrigger>
 </snippet>

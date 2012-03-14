@@ -2,5 +2,5 @@
 	<content><![CDATA[
 <mvt:item name="toolkit" param="states" />
 ]]></content>
-	<tabTrigger>tk/states</tabTrigger>
+	<tabTrigger>tk-states</tabTrigger>
 </snippet>
